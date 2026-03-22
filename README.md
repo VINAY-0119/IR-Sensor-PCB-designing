@@ -64,7 +64,7 @@ A blue **trimmer potentiometer (RV1)** allows real-time sensitivity and detectio
 
 ### Schematic — KiCad Schematic Editor
 
-![Schematic](images/schematic.png)
+![Schematic](schematic.png)
 
 > *Full circuit schematic showing the LM358 comparator, IR emitter/receiver voltage divider, sensitivity trimmer (RV1), and digital output stage with status LED (D3) and 3-pin connector (J1).*
 
@@ -72,7 +72,7 @@ A blue **trimmer potentiometer (RV1)** allows real-time sensitivity and detectio
 
 ### 3D Board Render
 
-![3D Render](images/3d_render.png)
+![3D Render](3d_render.png)
 
 > *KiCad 3D render of the assembled PCB. Visible: white IR emitter (D1), black IR photodiode (D2), blue trimmer potentiometer (RV1), LM358 DIP-8 IC, SMD status LED (D3), and 3-pin output header (J1) labeled VCC / GND / DATA.*
 
