@@ -56,7 +56,7 @@ A blue **trimmer potentiometer (RV1)** allows real-time sensitivity and detectio
 
 ### PCB Layout — KiCad PCB Editor
 
-![PCB Layout](images/pcb_layout.png)
+![PCB Layout](pcb_layout.png)
 
 > *Copper trace routing, component placement, silkscreen labels, and board outline as seen in KiCad PCB Editor. Components visible: D1, D2 (IR LEDs), R1–R3 (resistors), RV1 (trimmer), LM358 (DIP-8), D3 (status LED), J1 (3-pin header).*
 
