@@ -297,8 +297,6 @@ Free to use, modify, and manufacture for personal or commercial purposes with at
 
 *Designed with ❤️ using [KiCad EDA](https://www.kicad.org)*
 
-</div># IR Sensor Module — KiCad PCB Design
-
 <div align="center">
 
 **Manufacturer:** Vinay Industries &nbsp;|&nbsp; **IC:** LM358 Dual Op-Amp &nbsp;|&nbsp; **Tool:** KiCad EDA &nbsp;|&nbsp; **Version:** 1.0
