@@ -577,7 +577,6 @@ void loop() {
 - **Digital output only** — no analog voltage is provided on the DATA pin.
 - **Detection range:** Typically 2 cm – 30 cm depending on surface reflectivity.
 - **Dark/black surfaces** absorb IR and significantly reduce effective range.
-- **Avoid direct sunlight** — ambient IR can cause false positive detections.
 - **LM358 output** is not rail-to-rail; LOW output may not reach exactly 0V.
 - **Verify connector polarity** (VCC/GND/DATA) before applying power.
 
